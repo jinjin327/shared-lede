@@ -3,4 +3,6 @@
 
 # 下载源码
 git clone -b openwrt-18.06-k5.4 --single-branch https://github.com/immortalwrt/immortalwrt
+mv ./openwrt/* ./
+
 # 下载自定义插件
