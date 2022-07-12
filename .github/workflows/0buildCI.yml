@@ -9,7 +9,7 @@
 #
 # 源码采用******
 #
-name: 0模板机型******
+name: 0模板机型AX6S
 on:
   workflow_dispatch:
     inputs:
